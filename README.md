@@ -1,1 +1,1 @@
-# thermal_hand_gesture_recognition
+# Thermal hand gesture recognition
